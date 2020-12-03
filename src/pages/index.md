@@ -3,345 +3,92 @@ title: Home - Creative Cloud
 description: This is the home page of Creative Cloud 
 ---
  
-<Hero slots="image, heading, icon, text, buttons" variant="halfwidth" />
+<Hero slots="image, heading, text" variant="halfwidth" />
 
 ![Creative Cloud banner](images/cc-hero.png)
 
-# Creativity for all
+# Build a better document solution 
 
-![Creative Cloud icon](images/cc-icon.png)
+Use InDesign’s suite of Plug-in, Scripting and Server SDKs, to fully extend and automate InDesign, InCopy, and InDesign Server. Distribute your plug-ins to everyone using Adobe Exchange. <br /><br /> With scripts leverage the power of InDesign to streamline editorial and publishing workflows of your users  
 
-Creative Cloud services include tools and capabilities to streamline your workflows so that you, your team, and your stakeholders stay perfectly in sync across projects of any size 
 
-* [Get started](https://adobe.io)
-* [Sign up for the newsletter](https://adobe.io)
+<TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
 
+![CC icon](images/Smock_AssetCheck_18_N.svg)
 
+### Automate document processing 
 
+Manage disparate text, image, and media assets and build and publish documents dynamically for print, web, and ebook distribution.
 
-<AnnouncementBlock slots="heading, text, button" />
 
-### Try out the magic of Photoshop
+<TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
 
-Pull together Photoshop, Lightroom and Adobe Sensei into one place. Reduce time spent in each app, freeing you up for more creative time.
+![CC icon](images/Smock_AssetsLinkedPublished_18_N.svg)
 
-[Demo](https://www.adobe.io/apis/creativecloud/photo-imaging-api/api-demo.html)
+### Enhance and extend the InDesign UI
 
+Build plug-ins, panels, and scripts that add custom features and functions: create effects, dynamic layouts, file import and export, and more.
 
 
+<TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
 
-<TextBlock slots="image, heading, text1, text2, links" />
+![CC icon](images/Smock_FileHTML_18_N.svg)
 
-![Screenshot 1](images/intro1.png)
+### Leverage the power of InDesign Server
 
-### Extend Adobe CC Flagship Apps
+InDesign Server’s multithreaded SOAP engine lets you build complete document management and publishing solutions, delivered across your network and over the web.
 
-Extend Creative Cloud desktop apps like [Photoshop](https://www.adobe.com/products/photoshop.html), [Premiere Pro](https://www.adobe.com/products/premiere.html), and [InDesign](https://www.adobe.com/products/indesign.html) through our APIs and SDKs. 
-Be sure to check out [Common Extensibility Platform (CEP)](https://www.adobe.io/apis/creativecloud/cep.html), which lets you build custom UI panels for multiple CC apps at once.
 
-When you're ready to ship, distribute your work on [Adobe Exchange](https://exchange.adobe.com/), the preferred marketplace for Adobe Creative Cloud users. 
-And be sure to join the [Exchange Program for Creative Cloud](https://partners.adobe.com/exchangeprogram/creativecloud) to unlock more benefits, including streamlined publishing and promotional opportunities.
+<TextBlock slots="image, heading, text" width="33%" theme="dark" isCentered />
 
-* ![Adobe Premiere Pro](images/pr-icon.png) [Adobe Premiere Pro](https://www.adobe.com/products/premiere.html)
-* ![Adobe InDesign](images/ai-icon.png) [Adobe InDesign](https://www.adobe.com/products/indesign.html)
-* ![Adobe After Effect](images/ae-icon.png) [Adobe After Effect](https://www.adobe.com/products/aftereffects.html)   
+![CC icon](images/S_IlluIntegrateOtherApps_96.svg)
 
+### Integrate with other apps
 
+InDesign supports the Adobe Common Extensibility Platform(CEP), which lets you build scripts and panels that connect InDesign to other Adobe apps. Automate entire multi-app workflows to create documents that incorporate text, images, and media assets.
 
 
-<TextBlock slots="heading, text, buttons, links, image"/>
+<TextBlock slots="image, heading, text" width="33%" theme="dark" isCentered />
 
-### Start Building Adobe XD Plugins
+![CC icon](images/S_IlluImportExportXML_96.svg)
 
-Create plugins for Adobe XD that push the boundaries of experience design by adding new features to the app, automating workflows, connecting XD to external services, and more—all on a quick, modern JavaScript engine with native UI components. 
-When you’re ready, you can ship your plugin to XD users right from within the app.
+### Import, export, and process documents in XML-compatible format 
 
-* [Get started](https://adobe.io)
-* [Sign up for the newsletter](https://adobe.io)
+Use InDesign’s IDML, an XML-based format, to manipulate documents and their contents. Process files for import and export, read and write content to databases, parse and place content where you wish.
 
-- [No Icon Product](https://www.adobe.com/products/premiere.html)
+<TextBlock slots="image, heading, text" width="33%" theme="dark" isCentered />
 
-![Screenshot 2](images/intro2.png)
+![CC icon](images/S_IlluScripting_96.svg)
 
+### Automate and add features with scripting
 
+Create anything from simple automations to complex, cross-platform-compatible feature panels in HTML and JavaScript. InDesign also supports AppleScript and VBScript.
 
 
-<TitleBlock slots="heading, text" theme="light" />
+<TitleBlock slots="heading" />
 
-### Collaborate better with Content Cloud APIs
+### Blog Posts
 
-With the Cloud Content APIs, you can bring design work created in XD directly to your product or service.
+<ResourceCard slots="link, image, heading, text" width="45%" variant="vertical" />
 
-
-
-
-<TextBlock slots="image, heading, text, links" width="33%" theme="light" isCentered />
-
-![MSFT Teams logo](images/msfteams.png)
-
-### Microsoft teams
-
-Easily share Creative Cloud assets and files, and get comment notifications on your prototypes.
-
-* [Learn more](https://www.microsoft.com/microsoft-365/microsoft-teams/group-chat-software)
-
-
-
-
-<TextBlock slots="image, heading, text, links" width="33%" theme="light" isCentered />
-
-![JIRA Cloud logo](images/jira.png)
-
-### JIRA Cloud
-
-Make designer to developer handoffs easy. Find the latest designs and specs and get thumbnail previews and asset info.
-
-* [Learn more](https://www.atlassian.com/enterprise/cloud)
-
-
-
-
-<TextBlock slots="image, heading, text, links" width="33%" theme="light" isCentered />
-
-![Slack logo](images/slack.png)
-
-### Slack
-
-Instantly share Creative Cloud files, designs, specs, and notifications all in real time.
-
-* [Learn more](https://slack.com/enterprise)
-
-
-
-
-<TextBlock slots="video, icons, heading, text, buttons" theme="dark" />
-
-[Creative Cloud for a new era](https://www.youtube.com/watch?v=JemJbNJ4ZtU&ab_channel=AdobeCreativeCloud)
-
-* ![Adobe](images/adobe.png)
-* ![Microsoft](images/msft.png)
-
-### Partner Success Story
-
-Connect your users to Creative Cloud right from within your mobile or web apps with our service APIs. Give users access to 
-world-class creative assets with the Adobe Stock API, or sign up for early information on our upcoming CC Storage API.
-
-* [Learn more](https://adobe.io)
-* [Sign up for partner program](https://adobe.io)
-
-
-
-
-<TitleBlock slots="heading, text" />
-
-### Blogs and resources
-
-With the Cloud Content APIs, you can bring design work created in XD directly to your product or service.
-
-
-
-
-<ResourceCard slots="link, image, heading, text" width="50%" variant="vertical" />
-
-[Adobe I/O](https://adobe.io)
+[InDesign Server Licensing Updates](https://medium.com/adobetech/licensing-updates-for-developers-using-indesign-server-32a16cae0bf5?source=friends_link&sk=fe6d0f9afcd44f27366bb52f75b69a3b)
 
 ![Resource 3](images/resource3.png)
 
-### Creating a Great Adobe XD Plugin Listing 
 
-Rob Kleiman, July 8th 2020
+### Adobe InDesign Server Licensing Updates
 
+Mike Zahorik, May 19
 
+<ResourceCard slots="link, image, heading, text" width="45%" variant="vertical" />
 
-<ResourceCard slots="link, image, heading, text" width="50%" />
+[Adobe I/O](https://medium.com/adobetech/make-yourself-a-power-user-indesign-scripting-9ecb8c50be72?source=friends_link&sk=62e2fc51eda7303a667f8257e272564a)
 
-[Adobe I/O](https://adobe.io)
+![InDesign Scripting for 2020](images/Stock_image.png)
 
-![Resource 1](images/resource1.png)
+### Power from the People: InDesign Scripting
 
-### Pattern Builder: A Behind the Scenes Look at Adobe Capture
-
-Nihil Gupta, July 24th 2020
-
-
-
-<ResourceCard slots="link, image, heading, text" width="50%" />
-
-[Adobe I/O](https://adobe.io)
-
-![Resource 1](images/resource2.png)
-
-### Photoshop Extensibility Enters a New Era Soon: How to get Involved Early
-
-Ash Ryan Arnwine, March 12th 2020
-
-
-
-
-<TitleBlock slots="heading" theme="light" />
-
-## Get started building with Creative Cloud
-
-
-
-
-<ProductCard slots="icon, heading, text, buttons" theme="light" width="33%" />
-
-![CC icon](images/cc-icon.png)
-
-#### CC Storage API
-
-CC Storage API lets you access and modify assets stored in the Creative Cloud, the world's most popular creative platform. 
-
-* [Learn more](https://adobe.io)
-* [View docs](https://adobe.io)
-
-
-
-
-<ProductCard slots="heading, text, buttons" theme="light" width="33%" />
-
-#### Adobe Stock
-
-Gives your users access to the perfect Adobe Stock asset to enhance their creative projects. 
-
-* [Learn more](https://adobe.io)
-* [View docs](https://adobe.io)
-
-
-
-
-<ProductCard slots="icon, heading, text, buttons" theme="light" width="33%" />
-
-![CC icon](images/cc-icon.png)
-
-#### Common Extensibility Platform
-
-Build extensions with HTML, CSS, Javascript and Node. Deploy across multiple Adobe apps. 
-
-* [Learn more](https://adobe.io)
-* [View docs](https://adobe.io)
-
-
-
-
-<ProductCard slots="icon, heading, text, buttons" theme="light" width="33%" />
-
-![CC icon](images/cc-icon.png)
-
-#### CC Storage API
-
-CC Storage API lets you access and modify assets stored in the Creative Cloud, the world's most popular creative platform. 
-
-* [Learn more](https://adobe.io)
-* [View docs](https://adobe.io)
-
-
-
-
-<ProductCard slots="heading, text, buttons" theme="light" width="33%" />
-
-#### Adobe Stock
-
-Gives your users access to the perfect Adobe Stock asset to enhance their creative projects. 
-
-* [Learn more](https://adobe.io)
-* [View docs](https://adobe.io)
-
-
-
-
-<ProductCard slots="icon, heading, text, buttons" theme="light" width="33%" />
-
-![CC icon](images/cc-icon.png)
-
-#### Common Extensibility Platform
-
-Build extensions with HTML, CSS, Javascript and Node. Deploy across multiple Adobe apps. 
-
-* [Learn more](https://adobe.io)
-* [View docs](https://adobe.io)
-
-
-
-
-<ProductCard slots="icon, heading, text, buttons" theme="light" width="33%" />
-
-![CC icon](images/cc-icon.png)
-
-#### CC Storage API
-
-CC Storage API lets you access and modify assets stored in the Creative Cloud, the world's most popular creative platform. 
-
-* [Learn more](https://adobe.io)
-* [View docs](https://adobe.io)
-
-
-
-
-<ProductCard slots="heading, text, buttons" theme="light" width="33%" />
-
-#### Adobe Stock
-
-Gives your users access to the perfect Adobe Stock asset to enhance their creative projects. 
-
-* [Learn more](https://adobe.io)
-* [View docs](https://adobe.io)
-
-
-
-
-<ProductCard slots="icon, heading, text, buttons" theme="light" width="33%" />
-
-![CC icon](images/cc-icon.png)
-
-#### Common Extensibility Platform
-
-Build extensions with HTML, CSS, Javascript and Node. Deploy across multiple Adobe apps. 
-
-* [Learn more](https://adobe.io)
-* [View docs](https://adobe.io)
-
-
-
-
-<ProductCard slots="icon, heading, text, buttons" theme="light" width="33%" />
-
-![CC icon](images/cc-icon.png)
-
-#### CC Storage API
-
-CC Storage API lets you access and modify assets stored in the Creative Cloud, the world's most popular creative platform. 
-
-* [Learn more](https://adobe.io)
-* [View docs](https://adobe.io)
-
-
-
-
-<ProductCard slots="heading, text, buttons" theme="light" width="33%" />
-
-#### Adobe Stock
-
-Gives your users access to the perfect Adobe Stock asset to enhance their creative projects. 
-
-* [Learn more](https://adobe.io)
-* [View docs](https://adobe.io)
-
-
-
-
-<ProductCard slots="icon, heading, text, buttons" theme="light" width="33%" />
-
-![CC icon](images/cc-icon.png)
-
-#### Common Extensibility Platform
-
-Build extensions with HTML, CSS, Javascript and Node. Deploy across multiple Adobe apps. 
-
-* [Learn more](https://adobe.io)
-* [View docs](https://adobe.io)
-
+16 Free InDesign Scripts from the Scripting Community to Help Your Workflow, Updated for 2020
 
 
 
@@ -349,10 +96,9 @@ Build extensions with HTML, CSS, Javascript and Node. Deploy across multiple Ado
 
 ![CC banner](images/cc-banner.png)
 
-## Subscribe to the Creative Cloud developers newsletter 
+## Subscribe to the Creative Cloud developer newsletter 
 
 A monthly newsletter featuring news for anyone who creates, develops, or build plugins, extensions, or integrations for the
 Creative Cloud family of products.
 
-* [Subscribe to the newsletter](https://adobe.io)
-* [Learn more](https://adobe.io)
+* [Subscribe to the newsletter](https://www.adobe.com/subscription/ccdevnewsletter.html)
