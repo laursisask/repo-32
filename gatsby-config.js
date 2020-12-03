@@ -28,6 +28,5 @@ module.exports = {
     ]
   },
   plugins: [`@adobe/gatsby-theme-aio`],
-  pathPrefix: process.env
-**/.DS_Store.PATH_PREFIX || '/indesign'
+  pathPrefix: process.env.PATH_PREFIX || '/indesign'
 };
