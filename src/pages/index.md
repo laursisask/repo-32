@@ -14,7 +14,7 @@ Use InDesign’s suite of Plug-in, Scripting and Server SDKs, to fully extend an
 
 <TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
 
-![CC icon](images/Smock_AssetCheck_18_N.svg)
+![alt text](images/1497636110441.old.indesign1.png)
 
 ### Automate document processing 
 
@@ -23,7 +23,7 @@ Manage disparate text, image, and media assets and build and publish documents d
 
 <TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
 
-![CC icon](images/Smock_AssetsLinkedPublished_18_N.svg)
+![alt text](images/1497600298791.old.indesign2.png)
 
 ### Enhance and extend the InDesign UI
 
@@ -32,7 +32,7 @@ Build plug-ins, panels, and scripts that add custom features and functions: crea
 
 <TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
 
-![CC icon](images/Smock_FileHTML_18_N.svg)
+![alt text](images/original.old.indesign3.jpg)
 
 ### Leverage the power of InDesign Server
 
@@ -41,7 +41,7 @@ InDesign Server’s multithreaded SOAP engine lets you build complete document m
 
 <TextBlock slots="image, heading, text" width="33%" theme="dark" isCentered />
 
-![CC icon](images/S_IlluIntegrateOtherApps_96.svg)
+![alt text](images/S_IlluIntegrateOtherApps_96.svg)
 
 ### Integrate with other apps
 
@@ -50,7 +50,7 @@ InDesign supports the Adobe Common Extensibility Platform(CEP), which lets you b
 
 <TextBlock slots="image, heading, text" width="33%" theme="dark" isCentered />
 
-![CC icon](images/S_IlluImportExportXML_96.svg)
+![alt text](images/S_IlluImportExportXML_96.svg)
 
 ### Import, export, and process documents in XML-compatible format 
 
@@ -58,7 +58,7 @@ Use InDesign’s IDML, an XML-based format, to manipulate documents and their co
 
 <TextBlock slots="image, heading, text" width="33%" theme="dark" isCentered />
 
-![CC icon](images/S_IlluScripting_96.svg)
+![alt text](images/S_IlluScripting_96.svg)
 
 ### Automate and add features with scripting
 
