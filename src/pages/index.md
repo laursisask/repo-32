@@ -5,9 +5,9 @@ description: This is the home page of InDesign APIs
  
 <Hero slots="image, icon, heading, text" variant="halfwidth" />
 
-![Creative Cloud banner](images/cc-hero.png)
+![Creative Cloud banner](https://adobe.io/shared/images/cc-hero.png)
 
-![InDesign Logo](images/id_appicon_256.svg)
+![InDesign Logo](https://adobe.io/shared/icons/id_appicon_64.svg)
 
 # Build a better document solution 
 
@@ -96,7 +96,7 @@ Read about the recent changes to installation and management of InDesign Server 
 
 <SummaryBlock slots="image, heading, text, buttons" background="rgb(9, 90, 186)" />
 
-![CC banner](images/cc-banner.png)
+![CC banner](https://adobe.io/shared/images/cc-banner.png)
 
 ## Subscribe to the Creative Cloud developer newsletter 
 
