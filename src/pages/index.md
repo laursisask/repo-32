@@ -72,7 +72,7 @@ Create anything from simple automations to complex, cross-platform-compatible fe
 
 ### Blog Posts
 
-<ResourceCard slots="link, image, heading, text" width="45%" variant="vertical" />
+<ResourceCard slots="link, image, heading, text" width="50%" />
 
 [InDesign Server Licensing Updates](https://medium.com/adobetech/licensing-updates-for-developers-using-indesign-server-32a16cae0bf5?source=friends_link&sk=fe6d0f9afcd44f27366bb52f75b69a3b)
 
@@ -83,7 +83,7 @@ Create anything from simple automations to complex, cross-platform-compatible fe
 
 Read about the recent changes to installation and management of InDesign Server licenses. Learn how you can get a Development version.
 
-<ResourceCard slots="link, image, heading, text" width="45%" variant="vertical" />
+<ResourceCard slots="link, image, heading, text" width="50%" />
 
 [Adobe I/O](https://medium.com/adobetech/make-yourself-a-power-user-indesign-scripting-9ecb8c50be72?source=friends_link&sk=62e2fc51eda7303a667f8257e272564a)
 
