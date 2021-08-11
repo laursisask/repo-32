@@ -1,4 +1,13 @@
 ---
+keywords:
+  - Creative Cloud
+  - API Documentation
+  - ExtendScript
+  - SDK Documentation
+  - C++
+  - Scripting
+  - JavaScript
+  - InDesign Server
 title: Creative Cloud - InDesign
 description: This is the home page of InDesign APIs 
 ---
