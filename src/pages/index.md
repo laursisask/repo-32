@@ -12,7 +12,7 @@ title: Creative Cloud - InDesign
 description: This is the home page of InDesign APIs 
 ---
  
-<Hero slots="image, icon, heading, text" variant="halfwidth" />
+<Hero slots="image, icon, heading, text, buttons" variant="halfwidth" />
 
 ![Creative Cloud banner](https://adobe.io/shared/images/cc-hero.png)
 
@@ -22,6 +22,7 @@ description: This is the home page of InDesign APIs
 
 Use InDesign’s suite of Plug-in, Scripting and Server SDKs, to fully extend and automate InDesign, InCopy, and InDesign Server. Distribute your plug-ins to everyone using Adobe Exchange. <br /><br /> With scripts leverage the power of InDesign to streamline editorial and publishing workflows of your users  
 
+* [Get the SDKs](https://developer.adobe.com/console/servicesandapis/id)
 
 <TextBlock slots="image, heading, text" width="33%" theme="light" isCentered />
 
