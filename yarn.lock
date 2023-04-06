@@ -8121,9 +8121,9 @@ __metadata:
   linkType: hard
 
 "electron-to-chromium@npm:^1.4.284":
-  version: 1.4.354
-  resolution: "electron-to-chromium@npm:1.4.354"
-  checksum: 9224b0f5664f2f12289dbdce5fdc49a3f68732ba2e9eca1ae3ce469b3de877d68d5920314a6a8a1957babbd05225d099b55884716f0682650bc7b854047fc2c2
+  version: 1.4.355
+  resolution: "electron-to-chromium@npm:1.4.355"
+  checksum: b3fb9df3364d6e677df0a9ae9f470fae494131d85cbba57c3d58e0619208a8b4954aea834a0c6163d63248bc86f36bb0dc7b93508b8c1ae1f2d4eb9fe6fe2c00
   languageName: node
   linkType: hard
 
@@ -13579,11 +13579,11 @@ __metadata:
   linkType: hard
 
 "memfs@npm:^3.1.2, memfs@npm:^3.2.2":
-  version: 3.4.13
-  resolution: "memfs@npm:3.4.13"
+  version: 3.5.0
+  resolution: "memfs@npm:3.5.0"
   dependencies:
     fs-monkey: ^1.0.3
-  checksum: 3f9717d6f060919d53f211acb6096a0ea2f566a8cbcc4ef7e1f2561e31e33dc456053fdf951c90a49c8ec55402de7f01b006b81683ab7bd4bdbbd8c9b9cdae5f
+  checksum: 8427db6c3644eeb9119b7a74b232d9a6178d018878acce6f05bd89d95e28b1073c9eeb00127131b0613b07a003e2e7b15b482f9004e548fe06a0aba7aa02515c
   languageName: node
   linkType: hard
 
