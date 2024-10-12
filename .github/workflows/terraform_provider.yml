@@ -567,7 +567,7 @@ jobs:
     - continue-on-error: true
       if: steps.filter.outputs.code-changes == 'true' && (success() || failure())
       name: Upload code coverage report
-      uses: actions/upload-artifact@v3
+      uses: actions/upload-artifact@v4
       with:
         name: coverage.html
         path: bin/coverage.html
