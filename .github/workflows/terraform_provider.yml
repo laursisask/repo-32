@@ -533,7 +533,7 @@ jobs:
         go-version-file: go.mod
     - continue-on-error: true
       id: filter
-      uses: dorny/paths-filter@v2.11.1
+      uses: dorny/paths-filter@v3.0.2
       with:
         filters: "code-changes:\n  - 'go.mod'\n  - 'go.sum'\n  - 'provider/**'\n \
           \ - '*.go'\n  - '.github/workflows/**'\n"
